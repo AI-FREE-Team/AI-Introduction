@@ -26,6 +26,8 @@
 
 5. 如果你/妳對於深入開發 AI 技術的專案有興趣，想嘗試更多、更有趣、更扎實的實務AI技術專案，歡迎參考我們從0到1的AI技術課程：[《學習 AI 一把抓：點亮人工智慧技能樹》](https://hahow.in/cr/slashie-ai-free-team)！
 
+<br>
+
 ## 課程文件
 
 #### AI Introductions 課程清單
