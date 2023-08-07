@@ -32,23 +32,23 @@
 
 #### AI Introductions 課程清單
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 00 Preface 課程前言</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_00_Preface_%E5%89%8D%E8%A8%80.ipynb">Lesson 00 Preface 課程前言</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 01 MP model MP模型</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_01_MP_model.ipynb">Lesson 01 MP model MP 模型</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 02 Logistic Regression 羅吉斯迴歸</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_02_Logistic_Regression.ipynb">Lesson 02 Logistic Regression 羅吉斯迴歸</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 03 Neural Network 類神經網路</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_03_Neural_Network.ipynb">Lesson 03 Neural Network 類神經網路</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 04 Deep Neural Network 深度神經網路</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_04_Deep_Neural_Network.ipynb">Lesson 04 Deep Neural Network 深度神經網路</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 05 Convolution Neural Network 卷積神經網路</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_05_Convolution_Neural_Network.ipynb">Lesson 05 Convolution Neural Network 卷積神經網路</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 06 Handwriting Traditional Chinese Characters Recognition 繁體中文手寫辨識</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_06_Handwriting_Traditional_Chinese_Characters_Recognition.ipynb">Lesson 06 Handwriting Traditional Chinese Characters Recognition 繁體中文手寫辨識</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 07 Sentiment Analysis 情感分析</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_07_Sentiment_Analysis.ipynb">Lesson 07 Sentiment Analysis 情感分析</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson 08 AI Dream Interpretation AI 解夢</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/AI-Introduction/blob/main/documents/AI_FREE_Team_AI_Fundations__Lesson_08_AI_Dream_Interpretation.ipynb">Lesson 08 AI Dream Interpretation AI解夢</a>
 
 <br>
 
